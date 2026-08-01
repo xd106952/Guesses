@@ -1,0 +1,58 @@
+{
+  "rootHash": "810bf300f2c6845e5cd489d9c6426811cff78565d5221a8b3e95b3e2c016fb2a",
+  "timestamp": 1785563964201,
+  "fileCount": 3,
+  "files": [
+    {
+      "path": "game.js",
+      "hash": "e33ebbf0a8d4209bc9d27bae4f5101cf6d0e61e88d7ef00e3daa0f192225cb01",
+      "size": 52,
+      "modified": 1785330459822.7458
+    },
+    {
+      "path": "js\\main.js",
+      "hash": "6f1fbcf9f4ab68b9b61a4895c51202ea5f95c9f7ecb49dc7dfffb1c5d8f0bae1",
+      "size": 9472,
+      "modified": 1785330555104.9617
+    },
+    {
+      "path": "js\\libs\\weapp-adapter.js",
+      "hash": "998e8a4b7ce9cbd4deae6e33ec16f65bbbe6d5b548b7dcecaea3392cddca85d2",
+      "size": 1128,
+      "modified": 1785331643443.039
+    }
+  ],
+  "tree": {
+    "hash": "810bf300f2c6845e5cd489d9c6426811cff78565d5221a8b3e95b3e2c016fb2a",
+    "left": {
+      "hash": "0a028fcc554ab1370f6aeca42be2293b30aebc6d7ed69187d01f2662b16d497b",
+      "left": {
+        "hash": "e33ebbf0a8d4209bc9d27bae4f5101cf6d0e61e88d7ef00e3daa0f192225cb01",
+        "file": {
+          "path": "game.js",
+          "hash": "e33ebbf0a8d4209bc9d27bae4f5101cf6d0e61e88d7ef00e3daa0f192225cb01",
+          "size": 52,
+          "modified": 1785330459822.7458
+        }
+      },
+      "right": {
+        "hash": "998e8a4b7ce9cbd4deae6e33ec16f65bbbe6d5b548b7dcecaea3392cddca85d2",
+        "file": {
+          "path": "js\\libs\\weapp-adapter.js",
+          "hash": "998e8a4b7ce9cbd4deae6e33ec16f65bbbe6d5b548b7dcecaea3392cddca85d2",
+          "size": 1128,
+          "modified": 1785331643443.039
+        }
+      }
+    },
+    "right": {
+      "hash": "6f1fbcf9f4ab68b9b61a4895c51202ea5f95c9f7ecb49dc7dfffb1c5d8f0bae1",
+      "file": {
+        "path": "js\\main.js",
+        "hash": "6f1fbcf9f4ab68b9b61a4895c51202ea5f95c9f7ecb49dc7dfffb1c5d8f0bae1",
+        "size": 9472,
+        "modified": 1785330555104.9617
+      }
+    }
+  }
+}
